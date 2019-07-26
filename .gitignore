@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.vscode
+.pytest_cache
+logs
+
+*.env
+
+*.coverage
+
+google_drive_credentials/
+client_secret.json
